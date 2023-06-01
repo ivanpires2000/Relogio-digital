@@ -1,7 +1,5 @@
 # Relogio-digital 
 
-![preview](./.github/preview.PNG)
-
 > Primeiro site
 
 Projeto de construção  de um relógio digital
