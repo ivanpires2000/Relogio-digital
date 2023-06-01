@@ -4,7 +4,7 @@
 
 > Primeiro site
 
-Projeto de construção de um site de portifólio
+Projeto de construção  de um relógio digital
 
 [Clique aqui para acessar](https://ivanpires2000.github.io/Relogio-digital/)
 ## Tecnologias
